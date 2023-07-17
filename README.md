@@ -90,24 +90,26 @@ Firebase is a cloud-based platform that provides a range of services and tools f
 - Mediapipe is an open-source framework developed by Google that provides tools for building real-time computer vision applications.
 - We chose to use Mediapipe specifically for its pose detection capabilities, which allow us to accurately estimate the positions of 33 key body landmarks in real time.
 
-## Screenshot
 
-![Screenshot (12)](https://github.com/sparshrex/HealthAtlas_with_AR/assets/81426512/542aec38-3224-46c2-a69c-e523f0161a07)
+## Screenshots
 
-![Screenshot (13)](https://github.com/sparshrex/HealthAtlas_with_AR/assets/81426512/c53e15f6-d9c1-40d1-997b-b34ede1b0ad3)
+1. Dashboard:
+   ![Dashboard](./src/images/dashboard.jpg)
 
-![Screenshot (14)](https://github.com/sparshrex/HealthAtlas_with_AR/assets/81426512/b2666a04-9f3c-44e4-aefa-2b44d0d6603b)
+2. Diet:
+   ![Diet](./src/images/diet.png)
 
-![Screenshot (6)](https://github.com/sparshrex/HealthAtlas_with_AR/assets/81426512/ddd23ad7-1a8d-45f6-a4bd-107bdc51379d)
+3. Home:
+   ![Home](./src/images/home.jpg)
 
-![Main Page](https://github.com/sparshrex/HealthAtlas_with_AR/assets/81426512/741b931e-90fc-4e1e-ab24-8b52ab9e991d)
+4. Measure:
+   ![Measure](./src/images/measure.jpg)
 
-![Screenshot (7)](https://github.com/sparshrex/HealthAtlas_with_AR/assets/81426512/7d79152a-f149-45b4-b3c7-d1a58a6a49a7)
+5. Workout:
+   ![Workout](./src/images/workout.png)
 
-![Screenshot (8)](https://github.com/sparshrex/HealthAtlas_with_AR/assets/81426512/8357cd02-ce92-439f-a509-215e7c0793d3)
-
-
-![Screenshot (11)](https://github.com/sparshrex/HealthAtlas_with_AR/assets/81426512/69c4000b-6c81-4361-907c-c0c069ddc9c4)
+6. Yoga:
+   ![Yoga](./src/images/yoga.png)
 
 
 
