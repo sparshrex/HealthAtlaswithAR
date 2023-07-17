@@ -63,7 +63,6 @@ Firebase is a cloud-based platform that provides a range of services and tools f
 
 ![Screenshot (11)](https://github.com/sparshrex/HealthAtlas_with_AR/assets/81426512/69c4000b-6c81-4361-907c-c0c069ddc9c4)
 
-![Screenshot (10)](https://github.com/sparshrex/HealthAtlas_with_AR/assets/81426512/045c2f79-38e9-40dd-ab7a-069a6b0fac4a)
 
 
 
